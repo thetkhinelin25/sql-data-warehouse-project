@@ -1,6 +1,6 @@
-📊 Data Warehouse and Analytics Project
+# 📊 Data Warehouse and Analytics Project
 
-# 📖 Project Overview
+## 📖 Project Overview
 
 This project includes the following components:
 
